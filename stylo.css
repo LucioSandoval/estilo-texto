@@ -1,0 +1,35 @@
+.header{
+    background-color: black;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.header h1 .titulo1{
+    margin-left: 20px;
+    color: white;
+    
+}
+.titulo2{ 
+    color: aqua;
+}
+.parrafoCentrado{
+    background-color: blueviolet;
+    text-align: center;
+    font-style: italic;
+    color: white;
+}
+.parrafoCentrado h2{
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+} 
+.parrafoDerecho{
+    background-color: cornflowerblue;
+    text-align: right; 
+    
+}
+.parrafoDerecho h3{
+    padding-bottom: 20px;
+    padding-top: 20px;
+    padding-right: 20px;
+    text-decoration: underline;
+}
